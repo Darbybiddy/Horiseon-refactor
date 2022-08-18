@@ -9,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* changed the header classes to a semantic elements */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -56,6 +57,8 @@ a {
     background-position: center;
 }
 
+
+/* changed the hero class to a main semantic element */
 main {
     width: 75%;
     display: inline-block;
@@ -129,6 +132,8 @@ p {
     font-size: 36px;
 }
 
+
+/* used a asde parent tag for the lead generation section */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -140,6 +145,8 @@ aside {
     background-color: #2589bd;
 }
 
+
+/*changed the benefits tags to darby tags and reduced the repetitive css elements */
 .darby {
     margin-bottom: 32px;
     color: #ffffff;
@@ -156,6 +163,8 @@ aside {
     max-width: 150px;
 }
 
+
+/* changed the footer classes to semantic css elements*/
 footer {
     padding: 30px;
     clear:both;
